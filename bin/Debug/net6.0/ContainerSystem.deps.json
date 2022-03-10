@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ContainerSystem/1.0.0": {
+        "runtime": {
+          "ContainerSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContainerSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

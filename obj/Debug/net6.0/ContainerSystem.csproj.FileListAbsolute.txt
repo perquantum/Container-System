@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ContainerSystem\bin\Debug\net6.0\ContainerSystem.exe
+C:\Users\Lenovo\source\repos\ContainerSystem\bin\Debug\net6.0\ContainerSystem.deps.json
+C:\Users\Lenovo\source\repos\ContainerSystem\bin\Debug\net6.0\ContainerSystem.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ContainerSystem\bin\Debug\net6.0\ContainerSystem.dll
+C:\Users\Lenovo\source\repos\ContainerSystem\bin\Debug\net6.0\ContainerSystem.pdb
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.dll
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\refint\ContainerSystem.dll
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.pdb
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ContainerSystem.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ContainerSystem\obj\Debug\net6.0\ref\ContainerSystem.dll
